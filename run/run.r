@@ -4,6 +4,7 @@ library(tidyr)
 library(tensorflow)
 library(keras)
 library(ggplot2)
+library(data.table)
 
 
 
